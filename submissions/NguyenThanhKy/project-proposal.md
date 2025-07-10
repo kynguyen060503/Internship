@@ -108,14 +108,6 @@ Xây dựng một Database Migration Factory tự động sử dụng AWS Databa
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-[SCT]: https://d1.awsstatic.com/Products/product-name/diagrams/sct-icon.png
-[DMS]: https://d1.awsstatic.com/Products/product-name/diagrams/dms-icon.png
-[RDS]: https://d1.awsstatic.com/Products/product-name/diagrams/rds-icon.png
-[Lambda]: https://d1.awsstatic.com/Products/product-name/diagrams/lambda-icon.png
-[CW]: https://d1.awsstatic.com/Products/product-name/diagrams/cloudwatch-icon.png
-[S3]: https://d1.awsstatic.com/Products/product-name/diagrams/s3-icon.png
-[VPC]: https://d1.awsstatic.com/Products/product-name/diagrams/vpc-icon.png
-
 ### AWS Services Selection
 
 #### Core Services:
